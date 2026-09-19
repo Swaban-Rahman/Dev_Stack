@@ -3,7 +3,7 @@ import Logo from './Logo';
 const groups = [
   ['PRODUCT', ['Home', 'Technologies', 'Projects']],
   ['COMPANY', ['About', 'Contact', 'Careers']],
-  ['LEGAL', ['Privacy Policy', 'Terms of Service']],
+  ['LEGAL', ['Privacy Policy', 'Terms of Services']],
 ];
 
 export default function Footer() {
